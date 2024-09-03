@@ -1467,5 +1467,6 @@ class Cricket_Scoreboard_System
                 }
             }
         }
+        sc.close();
     }
 }
